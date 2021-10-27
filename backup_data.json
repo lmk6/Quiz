@@ -1,0 +1,249 @@
+{"questionBanks": [
+  {
+    "bankID": "CS10220:Different Bank",
+    "questions": [[
+      {
+        "question": "_ _ Disks are a lot faster than Hard Drive Disks",
+        "answers": [
+          ["Solid"],
+          ["State"]
+        ],
+        "max1Point": true,
+        "type": "fillTheBlanks"
+      },
+      {
+        "question": "Dyski _ _ Disk sƒ\u2026 o wiele szybsze ni≈º Dyski Hard Drive",
+        "answers": [
+          ["Solid"],
+          ["State"]
+        ],
+        "max1Point": true,
+        "type": "fillTheBlanks"
+      }
+    ]]
+  },
+  {
+    "bankID": "CS10220:QuiteTheoritical",
+    "questions": [
+      [
+        {
+          "question": "_ is a brain of every PC",
+          "answers": [["CPU"]],
+          "max1Point": true,
+          "type": "fillTheBlanks"
+        },
+        {
+          "question": "M√≥zgiem ka≈ºdego komputera jest _",
+          "answers": [["CPU"]],
+          "max1Point": true,
+          "type": "fillTheBlanks"
+        }
+      ],
+      [
+        {
+          "question": "IP layers: Application Layer, _ Layer, _ Layer and Network Access Layer",
+          "answers": [
+            ["Transport"],
+            ["Internet"]
+          ],
+          "max1Point": true,
+          "type": "fillTheBlanks"
+        },
+        {
+          "question": "Warstwy IP to kolejno: warstwa Aplikacji, warstwa _, warstwa _ i warstwa dostÔøΩpu do sieci ",
+          "answers": [
+            ["Transportowa"],
+            ["Internetowa"]
+          ],
+          "max1Point": true,
+          "type": "fillTheBlanks"
+        }
+      ],
+      [
+        {
+          "question": "How we call expressions that we use to match words?",
+          "answers": [
+            "Standard",
+            "Regular",
+            "Typical"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "Regular"
+        },
+        {
+          "question": "Jakich wyra≈ºe≈\u201e u≈ºywamy by dopasowaƒ\u2021 s≈\u201aowa?",
+          "answers": [
+            "Standardowych",
+            "Regularnych",
+            "Typowych"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "Regularnych"
+        }
+      ],
+      [
+        {
+          "question": "Which Operational System is free?",
+          "answers": [
+            "Windows",
+            "Linux",
+            "iOS"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "Linux"
+        },
+        {
+          "question": "Kt√≥ry system operacyjny jest darmowy?",
+          "answers": [
+            "Windows",
+            "Linux",
+            "iOS"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "Linux"
+        }
+      ],
+      [
+        {
+          "question": "2+2=",
+          "answers": [
+            "1",
+            "2",
+            "4"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "4"
+        },
+        {
+          "question": "2+2=",
+          "answers": [
+            "1",
+            "2",
+            "4"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "4"
+        }
+      ]
+    ]
+  },
+  {
+    "bankID": "CS10220:TestBank",
+    "questions": [
+      [
+        {
+          "question": "2 * 2 = ?",
+          "answers": [
+            "3",
+            "4"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "4"
+        },
+        {
+          "question": "2 * 2 = ?",
+          "answers": [
+            "5",
+            "4"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "4"
+        }
+      ],
+      [
+        {
+          "question": "disc faster than DVD",
+          "answers": [
+            "Blu-ray",
+            "CD"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "Blu-ray"
+        },
+        {
+          "question": "p≈\u201ayta szybsza ni≈º DVD",
+          "answers": [
+            "CD",
+            "Blu-ray"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "Blu-ray"
+        }
+      ],
+      [
+        {
+          "question": "Is \"sudo\" command safe to use?",
+          "answers": [
+            "not always",
+            "yes"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "not always"
+        },
+        {
+          "question": "Czy \"sudo\" jest zawsze bezpieczna?",
+          "answers": [
+            "tak",
+            "nie zawsze"
+          ],
+          "type": "singleChoice",
+          "correctAnswer": "nie zawsze"
+        }
+      ]
+    ]
+  },
+  {
+    "bankID": "CS11110:Security",
+    "questions": [[
+      {
+        "question": "This is question with _",
+        "answers": [["Blanks"]],
+        "max1Point": false,
+        "type": "fillTheBlanks"
+      },
+      {
+        "question": "___",
+        "answers": [
+          ["1"],
+          ["1"],
+          ["1"]
+        ],
+        "max1Point": false,
+        "type": "fillTheBlanks"
+      }
+    ]]
+  },
+  {
+    "bankID": "CS12320:OOP",
+    "questions": [
+      [
+        {
+          "question": "While programming in java, we should follow OO _",
+          "answers": [["principles"]],
+          "max1Point": false,
+          "type": "fillTheBlanks"
+        },
+        {
+          "question": "Programuj•c w javie powinnismy przestrzegac _ OO",
+          "answers": [["zasad"]],
+          "max1Point": false,
+          "type": "fillTheBlanks"
+        }
+      ],
+      [
+        {
+          "question": "Use control + Alt + _ to quickly format the code in Intellij",
+          "answers": [["l"]],
+          "max1Point": true,
+          "type": "fillTheBlanks"
+        },
+        {
+          "question": "Uæyj control + alt + _ by szybko sformatowa\u2020 kod",
+          "answers": [["l"]],
+          "max1Point": true,
+          "type": "fillTheBlanks"
+        }
+      ]
+    ]
+  }
+]}
